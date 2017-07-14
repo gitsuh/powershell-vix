@@ -18,7 +18,7 @@ function download-gitfile {
 		return $path2
 }
 
-
+#execute script in virtual machine from windows server with powercli
 function execute-vixscript {
 param
 	(
